@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjetoAgencia</string>
+    <string name="prinex">Prinex</string>
+    <string name="fechamento_de_caixa">Fechamento de caixa</string>
+</resources>
